@@ -11,5 +11,30 @@
       <name>Wallpaper 2</name>
       <filename>/usr/share/backgrounds/hml-wall/02.png</filename>
     </wallpaper>
+    
+    <wallpaper deleted="false">
+      <name>Legendary Songstress</name>
+      <filename>/usr/share/backgrounds/hml-wall/03.png</filename>
+    </wallpaper>
+    
+    <wallpaper deleted="false">
+      <name>Rooftop Chat</name>
+      <filename>/usr/share/backgrounds/hml-wall/04.png</filename>
+    </wallpaper>
+    
+    <wallpaper deleted="false">
+      <name>Where Feelings Come Together</name>
+      <filename>/usr/share/backgrounds/hml-wall/05.png</filename>
+    </wallpaper>
+    
+    <wallpaper deleted="false">
+      <name>Stage SEKAI (Miku)</name>
+      <filename>/usr/share/backgrounds/hml-wall/06.png</filename>
+    </wallpaper>
+    
+    <wallpaper deleted="false">
+      <name>Slothful, Sleepless Widow</name>
+      <filename>/usr/share/backgrounds/hml-wall/07.png</filename>
+    </wallpaper>
 
 </wallpapers>
